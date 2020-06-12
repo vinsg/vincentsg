@@ -1,6 +1,6 @@
 ---
 title: Creating and deploying a screenshot tool on AWS using CDK (PART 1)
-date: "2020-06-11Z"
+date: "2020-06-11"
 layout: post
 draft: false
 path: "/posts/screenshot-tool-part1/"
