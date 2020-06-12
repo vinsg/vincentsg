@@ -64,7 +64,7 @@ CDK treats every AWS as a separate module, we need to install all our dependenci
 npm i @aws-cdk/aws-s3
 npm i @aws-cdk/aws-lambda
 npm i @aws-cdk/aws-events
-nπm i @aws-cdk/aws-events-targets
+npm i @aws-cdk/aws-events-targets
 ```
 
 We start by importing our S3 dependency and defining our S3 bucket.
