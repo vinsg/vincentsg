@@ -14,7 +14,7 @@ phases:
             - 'npm run build'    
     post_build:        
         commands:            
-            - 'aws s3 sync "public/" "s3://vincentsg.ca" --delete --acl "public-read"'
+            - 'aws s3 sync "public/" "s3://vincentsg.ca" --delete'
 artifacts:    
     base-directory: public    
     files:        
