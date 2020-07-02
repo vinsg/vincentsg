@@ -31,7 +31,7 @@ module.exports = {
       email: 'vincent.salamancag@gmail.com',
       twitter: '_vinsg',
       github: 'vinsg',
-      rss: '#',
+      rss: '/rss.xml',
     },
   },
   plugins: [
